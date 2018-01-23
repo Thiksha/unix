@@ -1,0 +1,64 @@
+23/01/2018
+unix lab
+commands
+x-to delete unwanted character
+u- to undo last command
+CNTRL-R to redo
+cal- calculator
+cat-output of cntents of file
+cd-changes location of directory
+cp-copies a file
+date-displays current date
+df-reports disk usage
+find-finds commands in files
+kill-suspends any program that is unable to start
+ls-lists files stored in directory
+man-displays manual page for command
+mkdir-makes a new subdirectory
+ps-commands display information
+set-changes various settings
+vi-starts vi text editor
+w and who-list of users logged into the computer
+tty-displays how a name is used as a command
+x-to delete a character
+u-undo
+r-redo 
+a-append text at the end
+:wq- saveand exit
+:w-exit
+:q!-to trash all changes
+x - delete character
+u - undo
+ctrl-R - redo
+A - to append text at the end
+:wq - to save and exit
+:w - save
+:q! - trash changes
+dw - moves cursor to beggining and delete
+2w -  to move the cursor 2 words forward
+3e - moves the cursor end of third word forward
+0 - move to the start of the line
+d2w - deletes 2 words
+2dd - deletes 2nd line
+
+p - puts the previously deleted text after the cursor
+re - to replace the letter with e
+ce - deleted the word and places you in insert mode
+G - to move to the bottom of the file
+gg - to move to the start of the file
+% - to find matching ),],}
+:s/old/new where old gets replaced by new
+/ = backward search
+? = forward search
+:| = to run shell commands like :!dir , :!ls
+:w-Test (filename)
+v - starts visual mode
+:r - filename will insert the content into the current file
+R - to replace more than one character
+y - to copy text in visual mode and p to paste
+yw - yanks one word
+o - ctrl-w jumps fron 1 window to another
+R - enters replace mode unto <ESC> is pressed
+
+ 
+
